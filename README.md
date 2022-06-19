@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Apla1410
-- 👀 I’m interested in java , Spring , javaFx , SQL , javascript
-- 🌱 I’m currently learning   Spring , javaFx , SQL , javascript
-- 💞️ I’m looking to collaborate onS pring , javaFx , SQL , javascript
-- 📫 How to reach me ...pls mail me if u have good lectures or pdf on SQL , javascript
+- 👀 I’m interested in java ,SQL , Spring , hibernate, javascript , typescript,spring boot ,Microservices,Bootstrap, Angular.
 
 <!---
 Apla1410/Apla1410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
